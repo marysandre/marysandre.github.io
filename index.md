@@ -37,3 +37,4 @@ Formation effectuée dans le cadre d’un congé formation<p>
 - **muriel.pichon@gmail.com**<p>
 - 266 chemin de la Forêt<p>
 83140 Six-Fours-les-Plages<p>
+[Linkedin](www.linkedin.com/in/muriepichondeboysere)
