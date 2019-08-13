@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
+gem "github-pages", group: :jekyll_plugins
 title: Présentation
 description: de Muriel Pichon de Boysere
