@@ -1,7 +1,9 @@
 ## Expériences professionnelles
 
-- **Journaliste au Département Infographie et Innovation**<p>
- **Agence France-Presse**, Paris<p>
+- **Journaliste au Département Infographie et Innovation**
+
+ **Agence France-Presse**, Paris
+ 
 Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).<p>
 - **Journaliste intégratrice web au service multimédia**<p>
 **Agence France-Presse**, Paris<p>
